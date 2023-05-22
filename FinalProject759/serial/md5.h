@@ -1,0 +1,1 @@
+void getMd5Hash(unsigned char *data, uint32_t length, uint32_t *a1, uint32_t *b1, uint32_t *c1, uint32_t *d1);
